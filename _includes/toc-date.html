@@ -16,7 +16,7 @@
 
             <li class="divider"></li>
 
-            {% assign reversed_posts = site.posts | reverse %}
+            {% assign reversed_posts = site.category['general'] | reverse %}
 
             {% for post in reversed_posts %}
                 {% if page.url == post.url %}
