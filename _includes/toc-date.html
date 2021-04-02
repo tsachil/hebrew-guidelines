@@ -16,7 +16,7 @@
 
             <li class="divider"></li>
             <li>
-                <a>
+                <a style="text-decoration: none">
                    General Information
                 </a>
              </li>
@@ -36,11 +36,26 @@
 
             <li class="divider"></li>
 
-            <li>
-                <a href="https://github.com/sighingnow/jekyll-gitbook/fork" target="blank" class="gitbook-link">
-                    Fork it Now!
+           <li>
+                <a style="text-decoration: none">
+                   Morphology
                 </a>
-            </li>
+             </li>
+            {% assign reversed_posts = site.categories.morphology | reverse %}
+
+            {% for post in reversed_posts %}
+                {% if page.url == post.url %}
+                <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+                {% else %}
+                <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+                {% endif %}
+                    <a href="{{site.baseurl}}{{post.url}}">
+                        {{ post.title | escape }}
+                    </a>
+                </li>
+            {% endfor %}
+            
+        <li class="divider"></li>
         </ul>
     </nav>
 </div>
