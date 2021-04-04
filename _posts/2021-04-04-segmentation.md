@@ -45,15 +45,15 @@ These prepositions get segmented linearly, like before, where the pronominal fea
 
     FORM		LEMMA 		POS	FEATS
      אצל		אצל		ADP 	_
-	  נו		הוא		PRON	Person=1|Num=Plur.|Gender=M,F
+	 נו		הוא		PRON	Person=1|Num=Plur.|Gender=M,F
  
 
 
 Note that for forms like "איתו" (with him) the lemma of the preposition differs from the form, and the lemma for all the pronouns is always 3rd.sg.masc.
  
-	FORM	LEMMA
-    אית		עם
-    ו		הוא
+	FORM		LEMMA
+    	אית		עם
+    	ו		הוא
 
 ### The notorious accusative marker
 Inflected accusative marker (את) is analyzed as follows:
