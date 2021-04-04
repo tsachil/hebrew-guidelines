@@ -29,6 +29,7 @@ Take a word like "בבית" which is ambiguous (can be read as either definite o
     ב
     _ה_
     בית
+
 where the second segmentation reflects the definite reading (with the definite article stated as covert on the surface form).
 
 > **Decision:** We will use the same segmentation for both definite and indefinite readings
