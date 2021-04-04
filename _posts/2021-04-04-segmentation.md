@@ -58,6 +58,7 @@ Inflected accusative marker (את) is analyzed as follows:
     FORM	LEMMA	POS
     אות		את		ADP
     נו		הוא		PRON
+
 Note that only in uninflected form את appears without the infix.
 
 ### Genitive nouns
