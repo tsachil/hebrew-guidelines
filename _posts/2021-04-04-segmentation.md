@@ -43,7 +43,7 @@ We will address the embedded definiteness of the preposition in the morphologica
 Examples of inflected prepositions: אצלי, ממך, לנו, שלו, לידה etc.
 These prepositions get segmented linearly, like before, where the pronominal features are specified on the pronominal suffix. e.g. "אצלנו"
 
-    FORM	LEMMA 	POS		FEATS
+    FORM		LEMMA 		POS	FEATS
      אצל		אצל		ADP 	_
 	  נו		הוא		PRON	Person=1|Num=Plur.|Gender=M,F
  
@@ -58,7 +58,7 @@ Note that for forms like "איתו" (with him) the lemma of the preposition diff
 ### The notorious accusative marker
 Inflected accusative marker (את) is analyzed as follows:
 
-    FORM	LEMMA	POS
+    FORM	LEMMA		POS
     אות		את		ADP
     נו		הוא		PRON
 
