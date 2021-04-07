@@ -1,4 +1,4 @@
-﻿---
+---
 title: Segmentation
 author: Stav Klein
 date: 2021-04-03
