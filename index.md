@@ -5,6 +5,7 @@ layout: home
 The go-to website for all Hebrew tagging guidelines under the IAHLT project
 
 ## Updates:
+- 03/05/2021 Updated "Features" for Case analysis
 - 16/04/2021 Added example sentence under [Full Examples][1]
 - 16/04/2021 Updated [Features guidelines][2]
 - 12/04/2021 First group meeting was held. Already having discussions on Slack :muscle:
