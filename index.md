@@ -18,7 +18,7 @@ The go-to website for all Hebrew tagging guidelines under the IAHLT project
 - List of interesting phenomena to look for in the data
 
 
-[1]: https://stavkl.github.io/hebrew-guidelines/morphology/2021-04-16-examples.html
-[2]: https://stavkl.github.io/hebrew-guidelines/morphology/2021-04-07-features.html
+[1]: https://iahlt.github.io/hebrew-guidelines/morphology/2021-04-16-examples.html
+[2]: https://iahlt.github.io/hebrew-guidelines/morphology/2021-04-07-features.html
 
 
