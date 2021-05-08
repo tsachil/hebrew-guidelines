@@ -2,7 +2,7 @@
 title: Dependencies
 author: Stav Klein
 date: 2021-05-09
-category: Syntax
+category: syntax
 layout: post
 ---
 
