@@ -5,6 +5,7 @@ layout: home
 The go-to website for all Hebrew tagging guidelines under the IAHLT project
 
 ## Updates:
+- 08/05/2021 Added guidelines for syntax
 - 03/05/2021 Updated "Features" for Case analysis
 - 16/04/2021 Added example sentence under [Full Examples][1]
 - 16/04/2021 Updated [Features guidelines][2]
@@ -14,7 +15,6 @@ The go-to website for all Hebrew tagging guidelines under the IAHLT project
 
 ## Coming Soon:
 - Online tool for annotation
-- Syntax!
 - List of interesting phenomena to look for in the data
 
 
