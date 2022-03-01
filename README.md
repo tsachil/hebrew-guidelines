@@ -2,7 +2,7 @@
 
 This is the source code for the website that publishes the guidelines for the Hebrew annotation project.
 
-[Take me to the website!](https://stavkl.github.io/hebrew-guidelines/)
+[Take me to the website!](https://iahlt.github.io/hebrew-guidelines/)
 
 
 
